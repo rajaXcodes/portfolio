@@ -947,12 +947,6 @@ portfolio {
   padding: 3rem 0;
 }
 
-.portfolio header {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 2rem;
-}
-
 .portfolio-title {
   font-size: 2.5rem;
   font-weight: bold;
@@ -1184,9 +1178,9 @@ portfolio {
     grid-template-columns: 1fr;
   }
 
-  .portfolio-title {
+  /* .portfolio-title {
     font-size: 2rem;
-  }
+  } */
 }
 
 @media (max-width: 480px) {
@@ -1771,7 +1765,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * PORTFOLIO
    */
 
-  .article-title { padding-bottom: 20px; }
+  /* .article-title { padding-bottom: 20px; } */
 
 /* Project List Grid */
 .project-list {
@@ -2119,25 +2113,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-.achievements {
-  background: linear-gradient(135deg, #1a1a1a 0%, #000000 50%, #1a1a1a 100%);
-  min-height: 100vh;
-  /* padding: 3rem 0; */
-}
+
 
 .achievements-container {
   max-width: 1000px;
   margin: 0 auto;
   padding: 0 1.5rem;
-}
-
-.achievements-title {
-  font-size: 2.5rem;
-  font-weight: bold;
-  color: #fbbf24;
-  margin-bottom: 3rem;
-  border-bottom: 3px solid #fbbf24;
-  padding-bottom: 1rem;
 }
 
 .achievements-content {
