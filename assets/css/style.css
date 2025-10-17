@@ -950,9 +950,9 @@ portfolio {
 .portfolio-title {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #fbbf24;
+  color: #FFDB70;
   margin-bottom: 3rem;
-  border-bottom: 3px solid #fbbf24;
+  border-bottom: 3px solid #FFDB70;
   padding-bottom: 1rem;
 }
 
@@ -988,14 +988,14 @@ portfolio {
 }
 
 .filter-btn:hover {
-  color: #fbbf24;
-  border-color: #fbbf24;
+  color: #FFDB70;
+  border-color: #FFDB70;
 }
 
 .filter-btn.active {
-  background: #fbbf24;
+  background: #FFDB70;
   color: #000000;
-  border-color: #fbbf24;
+  border-color: #FFDB70;
 }
 
 /* s */
@@ -1015,11 +1015,11 @@ portfolio {
 } */
 
 .filter-select:hover {
-  border-color: #fbbf24;
+  border-color: #FFDB70;
 } 
 
 .select-icon {
-  color: #fbbf24;
+  color: #FFDB70;
 }
 
 .select-list {
@@ -1054,7 +1054,7 @@ portfolio {
 
 .select-item button:hover {
   background: #374151;
-  color: #fbbf24;
+  color: #FFDB70;
 }
 
 .project-list {
@@ -1102,7 +1102,7 @@ portfolio {
 .project-item a:hover {
   transform: translateY(-8px);
   box-shadow: 0 15px 35px rgba(251, 191, 36, 0.3);
-  border-color: #fbbf24;
+  border-color: #FFDB70;
 }
 
 .project-img {
@@ -1130,7 +1130,7 @@ portfolio {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0);
-  background: #fbbf24;
+  background: #FFDB70;
   width: 60px;
   height: 60px;
   border-radius: 12px;
@@ -1153,7 +1153,7 @@ portfolio {
 .project-title {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #fbbf24;
+  color: #FFDB70;
   margin: 1.5rem 1.5rem 0.5rem;
 }
 
@@ -1797,7 +1797,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .project-item a:hover {
   transform: translateY(-8px);
   box-shadow: 0 15px 35px rgba(251, 191, 36, 0.3);
-  border-color: #fbbf24;
+  border-color: #FFDB70;
 }
 
 .project-item a {
@@ -1832,7 +1832,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0);
-  background: #fbbf24;
+  background: #FFDB70;
   width: 60px;
   height: 60px;
   border-radius: 12px;
@@ -2128,10 +2128,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .achievement-card {
-  background-color: #1f2937;
+  background-color: #18181b;
   border-radius: 8px;
   padding: 2rem;
-  border-left: 4px solid #fbbf24;
+  border-left: 4px solid #FFDB70;
   transition: all 0.3s ease;
 }
 
@@ -2143,7 +2143,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .card-title {
   font-size: 1.75rem;
   font-weight: bold;
-  color: #fbbf24;
+  color: #FFDB70;
   margin-bottom: 1.5rem;
 }
 
@@ -2162,13 +2162,13 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .bullet {
-  color: #fbbf24;
+  color: #FFDB70;
   margin-right: 1rem;
   flex-shrink: 0;
 }
 
 .highlight {
-  color: #fbbf24;
+  color: #FFDB70;
   font-weight: 600;
 }
 
@@ -2195,7 +2195,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .sub-bullet {
-  color: #fbbf24;
+  color: #FFDB70;
   margin-right: 0.75rem;
   flex-shrink: 0;
 }
